@@ -14,9 +14,9 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
 
 ## Repository Structure
 ### K-Hub-Mechine-Learning/
-### |--- Task 1 Dataset/ 
+  ### |--- Task 1 Dataset/ 
 ###   |--- Here is the Task 1 Dataset
-### |--- Task 2 Dataset/
+  ### |--- Task 2 Dataset/
 ###    |--- Here is the Task 2 Dataset etc..
 ### |--- Task 1 Goggle Colad Resources
 ### |--- Task 2  Goggle Colad Resources etc..
