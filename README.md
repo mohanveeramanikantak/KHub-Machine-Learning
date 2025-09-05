@@ -15,23 +15,24 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
 ## Repository Structure
 K-Hub-Machine-Learning/
 │
-├─ Task1-Dataset/
-│   └─ (all files related to Task 1 dataset, e.g., CSV, JSON, images)
+├── Task1-Dataset/
+│   └── (Task 1 dataset files)
 │
-├─ Task2-Dataset/
-│   └─ (all files related to Task 2 dataset)
+├── Task2-Dataset/
+│   └── (Task 2 dataset files)
 │
-├─ Task3-Dataset/
-│   └─ (all files related to Task 3 dataset)
+├── Task3-Dataset/
+│   └── (Task 3 dataset files)
 │
-├─ Task1-Colab-Resources # Google Colab notebook for Task 1
-├─ reference-links.txt   # Any references, tutorials, or notes
+├── Task1-Colab-Resources # Google Colab notebook for Task 1
+├── reference-links.txt   # Tutorials / guides for Task 1
 │
-├─ Task2-Colab-Resources # Google Colab notebook for Task 2
-├─ reference-links.txt   # Any references, tutorials, or notes
+├── Task2-Colab-Resources # Google Colab notebook for Task 2
+├── reference-links.txt   # Tutorials / guides for Task 2
 │
-├─ Task3-Colab-Resources # Google Colab notebook for Task 3
-├─ reference-links.txt   # Any references, tutorials, or notes
+├── Task3-Colab-Resources # Google Colab notebook for Task 3
+├── reference-links.txt   # Tutorials / guides for Task 3
 │
-└─ README.md                # Main README for the repository
+└── README.md                 # Main README explaining repo, tasks, and resources
+
 
