@@ -13,11 +13,25 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
   3. Submit the task in **Google Classroom** if required.
 
 ## Repository Structure
-### K-Hub-Mechine-Learning/
-  ### |--- Task 1 Dataset/ 
-###   |--- Here is the Task 1 Dataset
-  ### |--- Task 2 Dataset/
-###    |--- Here is the Task 2 Dataset etc..
-### |--- Task 1 Goggle Colad Resources
-### |--- Task 2  Goggle Colad Resources etc..
-### |--- Redme file
+K-Hub-Machine-Learning/
+│
+├─ Task1-Dataset/
+│   └─ (all files related to Task 1 dataset, e.g., CSV, JSON, images)
+│
+├─ Task2-Dataset/
+│   └─ (all files related to Task 2 dataset)
+│
+├─ Task3-Dataset/
+│   └─ (all files related to Task 3 dataset)
+│
+├─ Task1-Colab-Resources # Google Colab notebook for Task 1
+├─ reference-links.txt   # Any references, tutorials, or notes
+│
+├─ Task2-Colab-Resources # Google Colab notebook for Task 2
+├─ reference-links.txt   # Any references, tutorials, or notes
+│
+├─ Task3-Colab-Resources # Google Colab notebook for Task 3
+├─ reference-links.txt   # Any references, tutorials, or notes
+│
+└─ README.md                # Main README for the repository
+
