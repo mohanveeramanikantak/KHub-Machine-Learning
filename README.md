@@ -13,7 +13,7 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
   3. Submit the task in **Google Classroom** if required.
 
 ## Repository Structure
-K-Hub-Machine-Learning/
+```K-Hub-Machine-Learning/
 ├── Task1-Dataset/
 │   └── (Task 1 dataset files)
 ├── Task2-Dataset/
@@ -26,6 +26,6 @@ K-Hub-Machine-Learning/
 ├─ Reference-links.txt   # Any references, tutorials, or notes
 ├─ Task3-Colab-Resources  # Google Colab notebook for Task 3
 ├─ Reference-links.txt   # Any references, tutorials, or notes
-└── README.md
+└── README.md```
 
 
