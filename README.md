@@ -32,6 +32,6 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
 ├─ Task3-Colab-Resources  # Google Colab notebook for Task 3
 ├─ Reference-links.txt   # Any references, tutorials, or notes
 │ 
-└── README.md```
+└── README.md
 
 
