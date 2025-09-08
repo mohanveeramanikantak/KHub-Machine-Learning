@@ -16,7 +16,7 @@ Welcome to the **K-Hub Machine Learning** repository! This repo tracks all the M
 ```
 K-Hub-Machine-Learning/
 │
-├── Task1-Dataset/
+├── Task1-Dataset/ 
 │   └── (Task 1 dataset files)
 │ 
 ├── Task2-Dataset/
